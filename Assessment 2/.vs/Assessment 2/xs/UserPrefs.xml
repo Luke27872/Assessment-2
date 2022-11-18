@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{BB497C7A-7B86-44E1-CABD-4107056D97EB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RuneSlot.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RunePickup.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/DefenderController.cs" Line="91" Column="6" />
+      <File FileName="Assets/Scripts/TargetController.cs" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="24" Column="24" />
+      <File FileName="Assets/Scripts/DefenderCombat.cs" />
+      <File FileName="Assets/Scripts/ArrowController.cs" />
+      <File FileName="Assets/Scripts/TreeEnemyController.cs" />
+      <File FileName="Assets/Scripts/TreeSpawner.cs" />
+      <File FileName="Assets/AstarPathfindingProject/Behaviors/AIDestinationSetter.cs" />
+      <File FileName="Assets/Scripts/HealthBar.cs" />
+      <File FileName="Assets/Scripts/RuneSlot.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d635b311-7700-4919-a0d0-390c7d5632aa" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
